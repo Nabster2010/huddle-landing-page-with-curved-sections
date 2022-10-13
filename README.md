@@ -28,8 +28,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
-- Live Site URL: [live site]()
+- Solution URL: [github repo](https://github.com/Nabster2010/huddle-landing-page-with-curved-sections)
+- Live Site URL: [live site](https://extraordinary-dango-4610d1.netlify.app/)
+
 
 ### Built with
 
